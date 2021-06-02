@@ -1,0 +1,929 @@
+Init done.
+PlantTree: SUCCESS
+and that's all!
+Best fruit is: -1
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	193
+and that's all!
+PlantTree: SUCCESS
+Best fruit is: 193
+PlantTree: SUCCESS
+Best fruit is: 193
+AddFruit: SUCCESS
+Best fruit is: -1
+Best fruit is: -1
+PlantTree: SUCCESS
+Best fruit is: -1
+PlantTree: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+and that's all!
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+Best fruit is: -1
+Best fruit is: -1
+PlantTree: FAILURE
+and that's all!
+AddFruit: SUCCESS
+Best fruit is: 147
+Best fruit is: 177
+Best fruit is: 177
+AddFruit: SUCCESS
+Best fruit is: -1
+Best fruit is: 177
+AddFruit: SUCCESS
+Best fruit is: -1
+RateFruit: SUCCESS
+Best fruit is: -1
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+and that's all!
+PlantTree: FAILURE
+Best fruit is: -1
+Best fruit is: -1
+Rank	||	Fruit
+1	||	189
+2	||	193
+3	||	151
+4	||	110
+5	||	179
+and that's all!
+Rank	||	Fruit
+1	||	171
+and that's all!
+Rank	||	Fruit
+1	||	148
+2	||	147
+3	||	41
+and that's all!
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 189
+PlantTree: FAILURE
+Best fruit is: 114
+PlantTree: SUCCESS
+Best fruit is: -1
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	189
+2	||	8
+3	||	193
+4	||	151
+5	||	110
+6	||	179
+and that's all!
+AddFruit: SUCCESS
+Best fruit is: -1
+PlantTree: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 171
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 148
+Best fruit is: 192
+PlantTree: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+and that's all!
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 189
+AddFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 135
+AddFruit: SUCCESS
+Best fruit is: -1
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	116
+2	||	171
+and that's all!
+Best fruit is: -1
+and that's all!
+Best fruit is: -1
+PlantTree: FAILURE
+Best fruit is: 158
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 158
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 158
+Rank	||	Fruit
+1	||	148
+2	||	147
+3	||	146
+4	||	117
+5	||	41
+and that's all!
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 158
+Rank	||	Fruit
+1	||	153
+2	||	116
+3	||	171
+and that's all!
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 108
+Best fruit is: 114
+Best fruit is: 158
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	108
+2	||	155
+3	||	23
+4	||	154
+5	||	10
+and that's all!
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 108
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	47
+2	||	189
+3	||	179
+4	||	151
+5	||	8
+6	||	110
+7	||	193
+and that's all!
+Best fruit is: 148
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 114
+Rank	||	Fruit
+1	||	78
+2	||	16
+and that's all!
+RateFruit: SUCCESS
+Best fruit is: 114
+RateFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 148
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: -1
+Best fruit is: 189
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 114
+Best fruit is: -1
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	52
+2	||	108
+3	||	155
+4	||	23
+5	||	154
+6	||	10
+and that's all!
+PlantTree: FAILURE
+Best fruit is: 148
+RateFruit: SUCCESS
+Best fruit is: 78
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	47
+2	||	189
+3	||	179
+4	||	151
+5	||	193
+6	||	8
+7	||	110
+8	||	125
+and that's all!
+AddFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 158
+Best fruit is: 52
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	135
+2	||	20
+3	||	192
+4	||	59
+5	||	30
+6	||	183
+7	||	115
+8	||	55
+9	||	143
+10	||	177
+and that's all!
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	47
+2	||	151
+3	||	189
+4	||	179
+5	||	100
+6	||	193
+7	||	33
+8	||	8
+9	||	110
+10	||	125
+and that's all!
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 198
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 138
+RateFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Best fruit is: 198
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 52
+AddFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 198
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 148
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	159
+2	||	158
+3	||	194
+4	||	180
+5	||	58
+6	||	64
+and that's all!
+UpdateRottenFruits: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 148
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 47
+PlantTree: FAILURE
+Best fruit is: 52
+Best fruit is: 148
+PlantTree: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 47
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 148
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 198
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	52
+2	||	108
+3	||	182
+4	||	155
+5	||	152
+6	||	17
+7	||	23
+8	||	43
+9	||	154
+10	||	10
+11	||	119
+12	||	73
+and that's all!
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 167
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 148
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	190
+2	||	122
+3	||	153
+4	||	116
+5	||	124
+6	||	39
+7	||	171
+and that's all!
+AddFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 53
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	53
+2	||	135
+3	||	55
+4	||	20
+5	||	192
+6	||	59
+7	||	115
+8	||	183
+9	||	143
+10	||	185
+11	||	177
+12	||	30
+and that's all!
+PlantTree: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 52
+RateFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: FAILURE
+Best fruit is: 47
+Best fruit is: 190
+AddFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 78
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	52
+2	||	182
+3	||	155
+4	||	108
+5	||	152
+6	||	17
+7	||	23
+8	||	154
+9	||	43
+10	||	10
+11	||	119
+12	||	73
+and that's all!
+Best fruit is: 78
+Rank	||	Fruit
+1	||	78
+2	||	168
+3	||	54
+4	||	186
+5	||	131
+6	||	77
+7	||	16
+8	||	42
+and that's all!
+AddFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	190
+2	||	122
+3	||	153
+4	||	116
+5	||	124
+6	||	39
+7	||	84
+8	||	171
+and that's all!
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	173
+2	||	45
+3	||	25
+4	||	198
+5	||	114
+6	||	96
+and that's all!
+Best fruit is: 159
+AddFruit: SUCCESS
+Best fruit is: 159
+RateFruit: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 53
+Best fruit is: 52
+Best fruit is: 173
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 167
+AddFruit: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 52
+AddFruit: FAILURE
+Best fruit is: 47
+PlantTree: FAILURE
+Best fruit is: 72
+Best fruit is: 53
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	159
+2	||	158
+3	||	194
+4	||	160
+5	||	172
+6	||	180
+7	||	58
+8	||	133
+9	||	64
+and that's all!
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+UpdateRottenFruits: SUCCESS
+PlantTree: FAILURE
+UpdateRottenFruits: SUCCESS
+Best fruit is: 78
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	52
+2	||	182
+3	||	155
+4	||	108
+5	||	152
+6	||	17
+7	||	23
+8	||	154
+9	||	43
+10	||	10
+11	||	119
+12	||	73
+and that's all!
+Best fruit is: 133
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	52
+2	||	182
+3	||	155
+4	||	108
+5	||	152
+6	||	17
+7	||	23
+8	||	154
+9	||	43
+10	||	10
+11	||	119
+12	||	73
+and that's all!
+Rank	||	Fruit
+1	||	78
+2	||	168
+3	||	54
+4	||	186
+5	||	131
+6	||	77
+7	||	94
+8	||	16
+9	||	63
+10	||	42
+and that's all!
+PlantTree: FAILURE
+AddFruit: FAILURE
+Best fruit is: 47
+Best fruit is: 105
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	105
+2	||	167
+3	||	138
+and that's all!
+Best fruit is: 190
+Best fruit is: 190
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	133
+2	||	159
+3	||	158
+4	||	194
+5	||	160
+6	||	172
+7	||	180
+8	||	58
+9	||	64
+and that's all!
+Best fruit is: 47
+Best fruit is: 52
+Rank	||	Fruit
+1	||	173
+2	||	45
+3	||	25
+4	||	198
+5	||	114
+6	||	96
+and that's all!
+Best fruit is: 148
+Best fruit is: 53
+PlantTree: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 133
+RateFruit: SUCCESS
+Best fruit is: 173
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 133
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 133
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	105
+2	||	167
+3	||	138
+and that's all!
+AddFruit: FAILURE
+Best fruit is: 53
+RateFruit: INVALID_INPUT
+Best fruit is: 47
+Best fruit is: 52
+Best fruit is: 47
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	190
+2	||	122
+3	||	153
+4	||	116
+5	||	124
+6	||	7
+7	||	39
+8	||	150
+9	||	84
+10	||	69
+11	||	171
+and that's all!
+Best fruit is: 173
+Rank	||	Fruit
+1	||	190
+2	||	122
+3	||	153
+4	||	116
+5	||	124
+6	||	7
+7	||	39
+8	||	150
+9	||	84
+10	||	69
+11	||	171
+and that's all!
+AddFruit: SUCCESS
+AddFruit: FAILURE
+UpdateRottenFruits: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+Best fruit is: 105
+PlantTree: FAILURE
+RateFruit: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 118
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	133
+2	||	159
+3	||	158
+4	||	194
+5	||	160
+6	||	172
+7	||	180
+8	||	58
+9	||	11
+10	||	64
+and that's all!
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	118
+2	||	151
+3	||	100
+4	||	110
+5	||	27
+6	||	47
+7	||	189
+8	||	193
+9	||	33
+10	||	8
+11	||	125
+12	||	179
+13	||	79
+and that's all!
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	148
+2	||	72
+3	||	57
+4	||	147
+5	||	146
+6	||	140
+7	||	50
+8	||	41
+9	||	107
+10	||	117
+and that's all!
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 76
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 133
+Rank	||	Fruit
+1	||	78
+2	||	168
+3	||	144
+4	||	186
+5	||	131
+6	||	77
+7	||	94
+8	||	16
+9	||	63
+10	||	42
+11	||	54
+and that's all!
+Rank	||	Fruit
+1	||	185
+2	||	55
+3	||	20
+4	||	192
+5	||	135
+6	||	59
+7	||	74
+8	||	80
+9	||	115
+10	||	3
+11	||	30
+12	||	183
+13	||	53
+14	||	143
+15	||	177
+16	||	56
+and that's all!
+Rank	||	Fruit
+1	||	118
+2	||	151
+3	||	100
+4	||	110
+5	||	27
+6	||	47
+7	||	189
+8	||	193
+9	||	33
+10	||	8
+11	||	125
+12	||	179
+13	||	79
+and that's all!
+Rank	||	Fruit
+1	||	118
+2	||	151
+3	||	100
+4	||	110
+5	||	27
+6	||	47
+7	||	189
+8	||	193
+9	||	33
+10	||	8
+11	||	125
+12	||	179
+13	||	79
+and that's all!
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	122
+2	||	92
+3	||	153
+4	||	116
+5	||	124
+6	||	7
+7	||	39
+8	||	150
+9	||	190
+10	||	84
+11	||	69
+12	||	171
+and that's all!
+Best fruit is: 118
+AddFruit: FAILURE
+Best fruit is: 17
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 118
+AddFruit: SUCCESS
+Best fruit is: 185
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+Best fruit is: 173
+Rank	||	Fruit
+1	||	89
+2	||	76
+3	||	105
+4	||	167
+5	||	138
+6	||	123
+and that's all!
+Rank	||	Fruit
+1	||	89
+2	||	76
+3	||	105
+4	||	167
+5	||	138
+6	||	123
+and that's all!
+Best fruit is: 78
+PlantTree: FAILURE
+Best fruit is: 173
+Best fruit is: 17
+Best fruit is: 148
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	185
+2	||	55
+3	||	20
+4	||	192
+5	||	135
+6	||	59
+7	||	74
+8	||	80
+9	||	115
+10	||	3
+11	||	30
+12	||	183
+13	||	53
+14	||	143
+15	||	177
+16	||	56
+and that's all!
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	78
+2	||	168
+3	||	144
+4	||	186
+5	||	131
+6	||	77
+7	||	94
+8	||	16
+9	||	63
+10	||	42
+11	||	54
+and that's all!
+Best fruit is: 148
+PlantTree: FAILURE
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	17
+2	||	52
+3	||	85
+4	||	152
+5	||	155
+6	||	182
+7	||	23
+8	||	154
+9	||	43
+10	||	10
+11	||	119
+12	||	73
+13	||	108
+and that's all!
+AddFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+UpdateRottenFruits: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+Quit done.
