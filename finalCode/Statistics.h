@@ -15,7 +15,7 @@ using std::make_pair;
 using std::ostream;
 using std::list;
 using std::pair;
-using std::map;
+ using std::map;
 
 class Fruit {
   public:
